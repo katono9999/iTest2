@@ -45,6 +45,13 @@
                     <applicationProperties type="com.fnfr.svt.documents.EmptyPropertyGroup"/>
                     <useFieldsInCommand>false</useFieldsInCommand>
                 </item>
+                <item guid="4c67755b-1671-4e68-aa8a-9aac97e540ce" action="comment">
+                    <command>
+                        <body>change brance5</body>
+                    </command>
+                    <applicationProperties type="com.fnfr.svt.documents.EmptyPropertyGroup"/>
+                    <useFieldsInCommand>false</useFieldsInCommand>
+                </item>
             </steps>
         </item>
     </procedures>
